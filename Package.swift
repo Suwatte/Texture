@@ -22,8 +22,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "AsyncDisplayKit",
-            url: "https://github.com/Suwatte/Texture/releases/download/3.1.0/AsyncDisplayKit.xcframework.zip",
-            checksum: "6dde6324665444b34e1b6e757d823116235b97fd63ded877cad674d653e4c08e"
+            url: "https://github.com/Suwatte/Texture/releases/download/3.2.0/AsyncDisplayKit.xcframework.zip",
+            checksum: "1674c22316d36a1e41d9297bc4688aec31e9024e97cf68cae45fb849aa1cdf67"
         )
     ]
 )
